@@ -1,0 +1,610 @@
+[
+  {
+    "text": "I haven't spoken to anyone all day, it feels very quiet here",
+    "label": 0
+  },
+  {
+    "text": "The evenings are the hardest, I just sit alone with my thoughts",
+    "label": 0
+  },
+  {
+    "text": "I wish someone would come by, it's been days",
+    "label": 0
+  },
+  {
+    "text": "I miss having someone to talk to at dinner",
+    "label": 0
+  },
+  {
+    "text": "Sometimes I just want company, even for a little while",
+    "label": 0
+  },
+  {
+    "text": "I feel like I'm fading into the background",
+    "label": 0
+  },
+  {
+    "text": "It gets lonely when the house is silent",
+    "label": 0
+  },
+  {
+    "text": "I wish I wasn't alone tonight",
+    "label": 0
+  },
+  {
+    "text": "I barely see anyone these days",
+    "label": 1
+  },
+  {
+    "text": "People don't visit much anymore",
+    "label": 1
+  },
+  {
+    "text": "I feel disconnected from the world outside",
+    "label": 1
+  },
+  {
+    "text": "The days go by without seeing anyone",
+    "label": 1
+  },
+  {
+    "text": "I feel cut off from others",
+    "label": 1
+  },
+  {
+    "text": "I used to have more people around me",
+    "label": 1
+  },
+  {
+    "text": "I feel a bit down today, I don't know why",
+    "label": 2
+  },
+  {
+    "text": "Everything feels heavier than usual",
+    "label": 2
+  },
+  {
+    "text": "I just feel sad and tired",
+    "label": 2
+  },
+  {
+    "text": "I woke up feeling low",
+    "label": 2
+  },
+  {
+    "text": "I feel like crying but I don't know why",
+    "label": 2
+  },
+  {
+    "text": "I feel a little empty inside",
+    "label": 2
+  },
+  {
+    "text": "I still think about my husband every day",
+    "label": 3
+  },
+  {
+    "text": "I miss her voice so much",
+    "label": 3
+  },
+  {
+    "text": "Losing him left a big hole in my life",
+    "label": 3
+  },
+  {
+    "text": "I wish they were still here with me",
+    "label": 3
+  },
+  {
+    "text": "It hurts not having them here anymore",
+    "label": 3
+  },
+  {
+    "text": "I feel a bit worried today",
+    "label": 4
+  },
+  {
+    "text": "Something is bothering me and I can't relax",
+    "label": 4
+  },
+  {
+    "text": "I keep thinking something might go wrong",
+    "label": 4
+  },
+  {
+    "text": "I can't stop worrying",
+    "label": 4
+  },
+  {
+    "text": "I feel tense today",
+    "label": 4
+  },
+  {
+    "text": "I'm afraid of falling when I'm alone",
+    "label": 5
+  },
+  {
+    "text": "I feel unsafe by myself",
+    "label": 5
+  },
+  {
+    "text": "I worry something bad could happen",
+    "label": 5
+  },
+  {
+    "text": "I feel vulnerable",
+    "label": 5
+  },
+  {
+    "text": "I feel a bit confused today",
+    "label": 6
+  },
+  {
+    "text": "My thoughts feel foggy",
+    "label": 6
+  },
+  {
+    "text": "It's hard to concentrate",
+    "label": 6
+  },
+  {
+    "text": "I feel mentally unclear",
+    "label": 6
+  },
+  {
+    "text": "I forgot where I put my glasses again",
+    "label": 7
+  },
+  {
+    "text": "I can't remember what I just did",
+    "label": 7
+  },
+  {
+    "text": "I forget things more often now",
+    "label": 7
+  },
+  {
+    "text": "My memory isn't what it used to be",
+    "label": 7
+  },
+  {
+    "text": "I feel lost even at home sometimes",
+    "label": 8
+  },
+  {
+    "text": "I don't know what day it is",
+    "label": 8
+  },
+  {
+    "text": "I get confused about time",
+    "label": 8
+  },
+  {
+    "text": "I feel disoriented",
+    "label": 8
+  },
+  {
+    "text": "I get frustrated when I can't do things like before",
+    "label": 9
+  },
+  {
+    "text": "I feel irritated today",
+    "label": 9
+  },
+  {
+    "text": "I lose patience quickly",
+    "label": 9
+  },
+  {
+    "text": "This is frustrating",
+    "label": 9
+  },
+  {
+    "text": "I feel like I can't do much on my own anymore",
+    "label": 10
+  },
+  {
+    "text": "I feel dependent on others",
+    "label": 10
+  },
+  {
+    "text": "I feel powerless sometimes",
+    "label": 10
+  },
+  {
+    "text": "I feel like a burden",
+    "label": 10
+  },
+  {
+    "text": "There's nothing to do today",
+    "label": 11
+  },
+  {
+    "text": "I feel bored sitting here",
+    "label": 11
+  },
+  {
+    "text": "The day feels very long",
+    "label": 11
+  },
+  {
+    "text": "I'm tired of doing nothing",
+    "label": 11
+  },
+  {
+    "text": "I feel very tired today",
+    "label": 12
+  },
+  {
+    "text": "I don't have much energy",
+    "label": 12
+  },
+  {
+    "text": "I feel drained",
+    "label": 12
+  },
+  {
+    "text": "I get tired quickly",
+    "label": 12
+  },
+  {
+    "text": "I couldn't sleep last night",
+    "label": 13
+  },
+  {
+    "text": "I wake up several times at night",
+    "label": 13
+  },
+  {
+    "text": "I struggle to fall asleep",
+    "label": 13
+  },
+  {
+    "text": "I don't sleep well anymore",
+    "label": 13
+  },
+  {
+    "text": "My chest feels tight",
+    "label": 14
+  },
+  {
+    "text": "I have some pain in my body",
+    "label": 14
+  },
+  {
+    "text": "I feel sick",
+    "label": 14
+  },
+  {
+    "text": "Something doesn't feel right",
+    "label": 14
+  },
+  {
+    "text": "I fell down the stairs and I feel weak",
+    "label": 14
+  },
+  {
+    "text": "I feel dizzy when I stand up",
+    "label": 14
+  },
+  {
+    "text": "I forgot to take my medication this morning",
+    "label": 15
+  },
+  {
+    "text": "I don't remember if I took my pills",
+    "label": 15
+  },
+  {
+    "text": "I might have missed my medicine",
+    "label": 15
+  },
+  {
+    "text": "I don't feel like eating today",
+    "label": 16
+  },
+  {
+    "text": "I have no appetite",
+    "label": 16
+  },
+  {
+    "text": "I barely eat these days",
+    "label": 16
+  },
+  {
+    "text": "I feel quite happy today",
+    "label": 17
+  },
+  {
+    "text": "I feel content",
+    "label": 17
+  },
+  {
+    "text": "I had a nice day",
+    "label": 17
+  },
+  {
+    "text": "I'm grateful for today",
+    "label": 18
+  },
+  {
+    "text": "Thank you for being here with me",
+    "label": 18
+  },
+  {
+    "text": "I appreciate your presence",
+    "label": 18
+  },
+  {
+    "text": "I feel okay today",
+    "label": 19
+  },
+  {
+    "text": "It's just a normal day",
+    "label": 19
+  },
+  {
+    "text": "Nothing special to report",
+    "label": 19
+  },
+  {
+    "text": "I feel very weak when I try to stand up",
+    "label": 14
+  },
+  {
+    "text": "My legs don't feel stable today",
+    "label": 5
+  },
+  {
+    "text": "I almost fell earlier",
+    "label": 14
+  },
+  {
+    "text": "I feel like I could lose my balance",
+    "label": 5
+  },
+  {
+    "text": "I feel a strange pressure in my chest",
+    "label": 14
+  },
+  {
+    "text": "I feel dizzy and lightheaded",
+    "label": 14
+  },
+  {
+    "text": "I feel like something is really wrong",
+    "label": 14
+  },
+  {
+    "text": "I feel shaky when I walk",
+    "label": 14
+  },
+  {
+    "text": "I don't feel safe moving around",
+    "label": 5
+  },
+  {
+    "text": "I feel like I might collapse",
+    "label": 14
+  },
+  {
+    "text": "I haven't heard from my daughter in a long time",
+    "label": 0
+  },
+  {
+    "text": "I keep waiting for someone to call me",
+    "label": 0
+  },
+  {
+    "text": "I feel invisible these days",
+    "label": 0
+  },
+  {
+    "text": "I wish someone would think about me",
+    "label": 0
+  },
+  {
+    "text": "I feel like nobody notices me anymore",
+    "label": 0
+  },
+  {
+    "text": "I miss having people around me",
+    "label": 0
+  },
+  {
+    "text": "I feel forgotten by everyone",
+    "label": 0
+  },
+  {
+    "text": "I wish someone would knock on my door",
+    "label": 0
+  },
+  {
+    "text": "I spend most of my time alone",
+    "label": 1
+  },
+  {
+    "text": "I don't get visitors anymore",
+    "label": 1
+  },
+  {
+    "text": "I feel very down and empty today",
+    "label": 2
+  },
+  {
+    "text": "I feel like nothing matters anymore",
+    "label": 2
+  },
+  {
+    "text": "I feel emotionally drained",
+    "label": 2
+  },
+  {
+    "text": "I feel like crying all day",
+    "label": 2
+  },
+  {
+    "text": "I feel like giving up on things",
+    "label": 10
+  },
+  {
+    "text": "I still talk to my wife sometimes even if she's gone",
+    "label": 3
+  },
+  {
+    "text": "I feel the loss more strongly today",
+    "label": 3
+  },
+  {
+    "text": "I miss the way things used to be with him",
+    "label": 3
+  },
+  {
+    "text": "I feel a constant worry in my chest",
+    "label": 4
+  },
+  {
+    "text": "I can't stop thinking about bad things happening",
+    "label": 4
+  },
+  {
+    "text": "I feel nervous even without a reason",
+    "label": 4
+  },
+  {
+    "text": "My mind keeps racing",
+    "label": 4
+  },
+  {
+    "text": "I feel scared something might happen to me",
+    "label": 5
+  },
+  {
+    "text": "I don't trust my body today",
+    "label": 5
+  },
+  {
+    "text": "I feel unsafe even inside my home",
+    "label": 5
+  },
+  {
+    "text": "I forgot why I came into this room",
+    "label": 7
+  },
+  {
+    "text": "I feel like my memory is getting worse",
+    "label": 7
+  },
+  {
+    "text": "I forget things right after doing them",
+    "label": 7
+  },
+  {
+    "text": "I woke up and didn't know where I was for a second",
+    "label": 8
+  },
+  {
+    "text": "I feel lost in time",
+    "label": 8
+  },
+  {
+    "text": "I feel like I'm not fully aware today",
+    "label": 8
+  },
+  {
+    "text": "I get annoyed at small things",
+    "label": 9
+  },
+  {
+    "text": "I feel frustrated with myself",
+    "label": 9
+  },
+  {
+    "text": "I feel like I need help with simple tasks",
+    "label": 10
+  },
+  {
+    "text": "I can't do things like I used to anymore",
+    "label": 10
+  },
+  {
+    "text": "I just sit here doing nothing for hours",
+    "label": 11
+  },
+  {
+    "text": "I don't find anything interesting anymore",
+    "label": 11
+  },
+  {
+    "text": "I feel like I have no strength today",
+    "label": 12
+  },
+  {
+    "text": "My body feels exhausted",
+    "label": 12
+  },
+  {
+    "text": "I keep waking up during the night",
+    "label": 13
+  },
+  {
+    "text": "I can't get comfortable enough to sleep",
+    "label": 13
+  },
+  {
+    "text": "I feel pain in my chest when I breathe",
+    "label": 14
+  },
+  {
+    "text": "My body feels very unwell today",
+    "label": 14
+  },
+  {
+    "text": "I feel like I need medical help",
+    "label": 14
+  },
+  {
+    "text": "I feel like something serious is happening",
+    "label": 14
+  },
+  {
+    "text": "I forgot my medication again today",
+    "label": 15
+  },
+  {
+    "text": "I didn't take my pills and I feel worse",
+    "label": 15
+  },
+  {
+    "text": "I haven't eaten properly today",
+    "label": 16
+  },
+  {
+    "text": "Food doesn't appeal to me at all",
+    "label": 16
+  },
+  {
+    "text": "I smiled thinking about my family today",
+    "label": 17
+  },
+  {
+    "text": "I had a nice quiet moment",
+    "label": 17
+  },
+  {
+    "text": "I'm thankful for the support I have",
+    "label": 18
+  },
+  {
+    "text": "I appreciate having someone listening",
+    "label": 18
+  },
+  {
+    "text": "Today feels like an ordinary day",
+    "label": 19
+  },
+  {
+    "text": "Nothing much happened today",
+    "label": 19
+  }
+]
